@@ -4,10 +4,10 @@ Read the full tutorial here: [**>> How to Build an Awesome Web3 Crowd-Funding Pl
 
 This example shows How to Build an Awesome Web3 Crowd-Funding Platform with React, Solidity, and CometChat:
 
-![Genesis Project](./screenshots/0.gif)
+![Quickfund Project](./screenshots/0.gif)
 <center><figcaption>Genesis Project</figcaption></center>
 
-![Genesis Project](./screenshots/1.gif)
+![Quickfund Project](./screenshots/1.gif)
 <center><figcaption>Back Project</figcaption></center>
 
 ## Technology
@@ -15,14 +15,10 @@ This example shows How to Build an Awesome Web3 Crowd-Funding Platform with Reac
 This demo uses:
 
 - Metamask
-- Hardhat
-- Infuria
 - ReactJs
 - Tailwind CSS
-- CometChat
 - Solidity
 - EthersJs
-- Faucet
 
 ## Running the demo
 
@@ -46,21 +42,3 @@ To run the demo follow these steps:
 2. Create a CometChat project, copy and paste your key in the spaces below.
 3. Run the app using `yarn start`
 <br/>
-
-If your confuse about the installation, check out this **TUTORIAL** to see how you should run it.
-
-Questions about running the demo? [Open an issue](https://github.com/Daltonic/genesis/issues). We're here to help ✌️
-
-## Useful links
-
-- 🏠 [Website](https://daltonic.github.io/)
-- ⚽ [Metamask](https://metamask.io/)
-- 🚀 [Remix Editor](https://remix.ethereum.org/)
-- 💡 [Hardhat](https://hardhat.org/)
-- 📈 [Infuria](https://infura.io/)
-- 🔥 [ReactJs](https://reactjs.org/)
-- 🐻 [Solidity](https://soliditylang.org/)
-- 👀 [EthersJs](https://docs.ethers.io/v5/)
-- 🎅 [Faucet](https://faucets.chain.link/rinkeby)
-- 🤖 [CometChat](https://cometchat.com/)
-- ✨ [Live Demo](https://genesis-45443.web.app/)
